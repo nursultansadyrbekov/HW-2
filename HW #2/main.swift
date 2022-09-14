@@ -2,7 +2,7 @@
 
 // Задача №1
 // а) Нахождение квадрата и куба числа
-//func squareAndQube(num: Int) {
+//func squareAndQube(num: Double) {
 //    print("Квадрат = " , num * num)
 //    print("Куб = " , num * num * num)
 //}
@@ -11,21 +11,21 @@
 //let num = readLine()!
 //
 //
-//squareAndQube(num: Int (num) ?? 0)
+//squareAndQube(num: Double (num) ?? 0)
 
 // б) Нахождение периметра куба
 
-//func perimeterOfQube (num:Int) {
+//func perimeterOfQube (num:Double) {
 //    print("Периметр куба = " , num * 12)
 //}
 //print("Длина ребра")
 //let num = readLine()!
 //
-//perimeterOfQube(num:  Int (num) ?? 0)
+//perimeterOfQube(num:  Double (num) ?? 0)
 
 // в) Нахождение площади прямоугольника
 
-//func squareOfRectangle (length: Int , width: Int) {
+//func squareOfRectangle (length: Double , width: Double) {
 //    print("Площадь прямоугольника = " , length * width , "кв. м")
 //}
 //print("Введите длину в м")
@@ -33,7 +33,7 @@
 //print("Введите ширину в м")
 //let width = readLine()!
 //
-//squareOfRectangle(length: Int (length) ?? 0, width: Int (width) ?? 0)
+//squareOfRectangle(length: Double (length) ?? 0, width: Double (width) ?? 0)
 
 // г) Нахождение площади круга
 
